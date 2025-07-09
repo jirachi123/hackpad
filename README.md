@@ -6,8 +6,8 @@ Basic hackpad for highway.
 
 ## Pictures
 
-![fully assembled case](CaseAssembled.png)
-![bottom cover](CaseBottom.png)
-![top cover](CaseTop.png)
-![pcb](PCB.png)
-![schematic](Schematic.png)
+![fully assembled case](imgs/CaseAssembled.png)
+![bottom cover](imgs/CaseBottom.png)
+![top cover](imgs/CaseTop.png)
+![pcb](imgs/PCB.png)
+![schematic](imgs/Schematic.png)
