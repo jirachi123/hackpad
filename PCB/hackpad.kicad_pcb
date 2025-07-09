@@ -2449,6 +2449,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Vinay's Hackpad"
+		(at 155.4 70.6 0)
+		(layer "F.SilkS")
+		(uuid "70ddf892-75a8-4dcc-b51d-e1ca7714684f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 203.35875 71.4375)
 		(end 204.15625 71.4375)
