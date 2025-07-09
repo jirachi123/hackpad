@@ -1,4 +1,3 @@
-IdDesignatorFootprintQuantityDesignationSupplier and ref
-1U1Seeed Studio XIAO RP20401XIAO-RP2040-DIPhttps://www.seeedstudio.com/XIAO-RP2040-v1.0-p-5026.html
-2SW1,SW2, |SW3, SW4SW_Cherry_MX_1.00u_PCB4Cherry MX Switcheshttps://www.digikey.ca/en/products/detail/cherry/DX1B-A1AA/6135510
-3D1,D2LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm2SK6812MINI RGB LEDshttps://www.aliexpress.com/item/1005003483779367.html
+Id Designator Footprint Quantity Designation "Supplier and ref"
+1 U1 "Seeed Studio XIAO RP2040" 1 XIAO-RP2040-DIP https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+2 D1,D2 LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm 2 "SK6812MINI RGB LEDs" https://www.aliexpress.us/item/3256802678755423.html
