@@ -1,3 +1,5 @@
 Id Designator Footprint Quantity Designation "Supplier and ref"
 1 U1 "Seeed Studio XIAO RP2040" 1 XIAO-RP2040-DIP https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
 2 D1,D2 LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm 2 "SK6812MINI RGB LEDs" https://www.aliexpress.us/item/3256802678755423.html
+3  "M3x16 Bolt" 4  
+4  "M3 Heatset" 4  
