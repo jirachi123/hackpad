@@ -1,6 +1,8 @@
-Id Designator Footprint Quantity Designation "Supplier and ref"
-1 U1 "Seeed Studio XIAO RP2040" 1 XIAO-RP2040-DIP https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
-2 D1,D2 LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm 2 "SK6812MINI RGB LEDs" https://www.aliexpress.us/item/3256802678755423.html
-3  "M3x16 Bolt" 4  
-4  "M3 Heatset" 4  
-5  "3D printed case" 1  
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"D1,D2",2,SK6812MINI,,,,LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+"SW1,SW2,SW3,SW4",4,SW_Push,,,,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,~
+SW5,1,RotaryEncoder,,,,Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,~
+U1,1,XIAO-RP2040-DIP,,,,OPL:XIAO-RP2040-DIP,
+,4,M3x16 Bolt,,,,,
+,4,M3 Heatset,,,,,
+,1,3D printed case,,,,,
