@@ -22,4 +22,5 @@ July 10th - day 3 (~1 hr)
 Got feedback on this day that I needed to add an extra component. Because this was intended for media control, it was a no brainer to add a rotary encoder for volume control, freeing up a few keys for macros or other uses later on. 
 
 ![schematic update](imgs/Schematicnew.png)
+
 The rotary encoder was as simple as adding it in the schematic, then updating the pcb and dragging it into place there, and then finally grabbing the asset from KiCad so I could put it into the final design on Fusion360.
