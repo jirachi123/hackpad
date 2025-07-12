@@ -1,6 +1,6 @@
 Vinay's Hackpad
 
-Basic hackpad for highway.
+4-key macropad for highway. Made it to use for media controls as I use a 65% keyboard and don't have easily accessible media buttons. Might be used to play osu or other rhythm games.
 
 [BOM](./BOM.csv)
 
