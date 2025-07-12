@@ -1,3 +1,5 @@
+Total time - ~9 hrs
+
 July 6th - day 1 (~3 hrs)
 
 Started building a hackpad. Decided to create a 4 key macropad for volume controls as I use a 65% keyboard at home and often find it hard to switch songs or change volume during a game or other fullscreen applications.
